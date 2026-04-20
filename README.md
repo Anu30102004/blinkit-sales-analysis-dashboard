@@ -102,4 +102,4 @@ Aspiring Data Analyst | MSc Applicant
  
 ---
  
-![Dashboard]("Dashboard.png")
+![Dashboard]("https://github.com/Anu30102004/blinkit-sales-analysis-dashboard/blob/main/Dashboard.png")
