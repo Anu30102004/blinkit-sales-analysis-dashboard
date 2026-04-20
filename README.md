@@ -102,4 +102,4 @@ Aspiring Data Analyst | MSc Applicant
  
 ---
  
-![Dashboard]("Dashboard.png")
+![Dashboard]("dashboard.png")
