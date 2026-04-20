@@ -102,4 +102,4 @@ Aspiring Data Analyst | MSc Applicant
  
 ---
  
-![Dashboard]("C:\Users\ANUSHKA\OneDrive\Pictures\Screenshots\Dashboard.png")
+![Dashboard]("Dashboard.png")
