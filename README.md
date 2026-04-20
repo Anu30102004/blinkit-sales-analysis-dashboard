@@ -51,10 +51,10 @@ Blinkit operates across multiple outlet types, sizes, and locations. The busines
 ```
 blinkit-sales-analysis-dashboard/
 │
-├── blinkit.pbix               # Power BI Dashboard file
-├── BlinkIT Grocery Data.xlsx  # Raw dataset
-├── dashboard.png              # Dashboard screenshot
-└── README.md                  # Project documentation
+├── BlinkIT Grocery Data.xlsx  # Raw Dataset
+├── Dashboard.png              # Dashboard Screenshot
+├── README.MD                  # Project Documentation
+└── blinkit.pbix               # Power BI dashboard file
 ```
  
 ---
