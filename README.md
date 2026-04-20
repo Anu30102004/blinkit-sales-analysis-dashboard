@@ -97,9 +97,9 @@ blinkit-sales-analysis-dashboard/
 ## 👩‍💻 Author
  
 **Anushka**  
-Aspiring Data Analyst | MSc Applicant  
-[GitHub Profile](https://github.com/Anu30102004)
+Data Analyst | BSc Data Science 
+(https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Anu30102004)
  
 ---
  
-![Dashboard]("dashboard.png")
+
